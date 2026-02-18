@@ -1,0 +1,13 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Offline School Library Management System",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve public",
+    "start": "npx serve public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
